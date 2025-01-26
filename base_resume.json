@@ -1,0 +1,27 @@
+{
+  "name": "John Doe",
+  "contact": "john.doe@example.com, +1-234-567-8901",
+  "summary": "Software engineer with 5+ years of experience in Android development, Kotlin, and cloud technologies.",
+  "skills": {
+    "programming_languages": ["Kotlin", "Java", "Python"],
+    "frameworks": ["Android Jetpack Compose", "Retrofit", "Room DB"],
+    "cloud": ["AWS", "GCP"]
+  },
+  "experience": [
+    {
+      "role": "Senior Android Developer",
+      "company": "ABC Corp",
+      "duration": "2020–2024",
+      "responsibilities": [
+        "Developed and maintained Android apps with 1M+ downloads.",
+        "Collaborated with cross-functional teams to improve performance.",
+        "Implemented CI/CD pipelines for faster deployments."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science",
+    "institution": "XYZ University",
+    "year": "2015–2019"
+  }
+}
