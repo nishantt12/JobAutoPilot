@@ -1,27 +1,30 @@
 {
-  "name": "John Doe",
-  "contact": "john.doe@example.com, +1-234-567-8901",
-  "summary": "Software engineer with 5+ years of experience in Android development, Kotlin, and cloud technologies.",
+  "name": "Nishant Tanwar",
+  "title": "Sr. Full-Stack Engineer",
+  "summary": "Senior {Backend} Engineer with over 10 years of professional experience, including 7 years of remote work, I am a seasoned Software Engineer proficient in a range of technologies, including Kubernetes, Google Cloud Platform, AWS, Microservices, Android, Kotlin,\nJava, and Jetpack Compose. Throughout the years, I have contributed to diverse domains such as Supply Chain, Service Marketplaces, and Financial Services. I am passionate about creating impactful solutions that drive meaningful change",
+
   "skills": {
-    "programming_languages": ["Kotlin", "Java", "Python"],
-    "frameworks": ["Android Jetpack Compose", "Retrofit", "Room DB"],
-    "cloud": ["AWS", "GCP"]
+    "programming_languages": ["Kotlin", "Java", "Python", "Node.js"],
+    "technologies/frameworks": ["Kubernetes", "Docker", "Spring Boot", "Google Cloud Platform (GCP)", "Amazon Web Services(AWS)", "Microservices", "Kotlin Multiplatform", "Nginx", "Junit", "MySQL", "PostgreSQL", "DynamoDB", "Android", "CI/CD"
+]
   },
   "experience": [
     {
-      "role": "Senior Android Developer",
-      "company": "ABC Corp",
+      "role": "Sr. Software Engineer",
+      "company": "Tala",
       "duration": "2020–2024",
       "responsibilities": [
-        "Developed and maintained Android apps with 1M+ downloads.",
-        "Collaborated with cross-functional teams to improve performance.",
-        "Implemented CI/CD pipelines for faster deployments."
+        "Led the development of the Tala financial system, fostering cross-functional collaboration, resulting in over 20 million users",
+        "Integrated a Server-Driven UI framework using Golang and GraphQL, enhancing user interaction by 20%.",
+        "Developed an internal caching service using Golang, reducing request latency by 35% and significantly improving performance and reliability.",
+        "Implemented cross-platform multi-country module to deploy applications into multiple countries (Philippines, India, Mexico, and Kenya).",
+        "Led the development of an in-house wallet with server-side API integration, resulting in a 50% increase in transaction processing speed and a 20% reduction in integration errors."
       ]
     }
   ],
   "education": {
     "degree": "Bachelor of Technology in Computer Science",
-    "institution": "XYZ University",
-    "year": "2015–2019"
+    "institution": "Guru Gobind Singh Indraprastha University (GGSIPU)",
+    "year": "2009–2013"
   }
 }
