@@ -1,0 +1,63 @@
+{
+  "name": "Nishant Tanwar",
+  "title": "Sr. Android Engineer",
+  "summary": "Senior Android Engineer with 10+ years of experience, including 7 years of remote work. Proficient in Android, Kotlin, Java, Jetpack Compose, and [specific technology]. Proven track record in improving app performance and user experience, including reducing app load times by up to 40% and increasing user engagement by 30%. Experienced in diverse domains such as Supply Chain, Service Marketplaces, and Financial Services. Passionate about creating impactful solutions that drive meaningful change",
+  "experience": [
+    {
+      "role": "Sr. Software Engineer",
+      "company": "Tala",
+      "duration": "2020–2024",
+      "responsibilities": [
+        "Led development of the Tala Android Application from inception to launch, resulting in over 20+ Million downloads on the Google Play Store.",
+        "Implemented dynamic features in the app which boosted user interaction by 20%.",
+        "Integrated Server-Driven UI framework with Jetpack compose which reduced app size by 25%",
+        "Developed an internal caching service using Golang, reducing request latency by 35% and significantly improving performance and reliability.",
+        "Implemented cross-platform multi-country module to deploy applications into multiple countries (Philippines, India, Mexico, and Kenya).",
+        "Led the development of an in-house wallet with server-side API integration, resulting in a 50% increase in transaction processing speed and a 20% reduction in integration errors."
+      ]
+    },
+    {
+      "role": "Sr. Software Engineer",
+      "company": "MileZero, a Capstone Company",
+      "responsibilities": [
+        "Architected and developed the Last Mile Android Application to deliver 1+ Million packages daily",
+        "Developed a framework enabling the app to function fully offline, reducing user drop rate by 40%",
+        "Reduced build time by 30% and app size by 50% by dividing the application into smaller, independent modules",
+        "Completely migrated the app from MVP to MVVM architecture, improving code maintainability and testability while streamlining UI logic and state management.",
+        "Implemented Jenkins CI/CD pipelines for automated testing and deployment of the app to the Google Play Store."
+
+      ]
+    },
+    {
+      "role": "Sr. Software Engineer",
+      "company": "Urban Company",
+      "responsibilities": [
+          "Spearheaded the building, architecture, and maintenance of the UrbanCompany Android Application",
+        "Successfully scaled the application from zero to 10 Million users on Google Play Store.",
+        "Contributed to the development of a new authentication feature that improved security and user retention.",
+        "Improved app performance by 30% through a comprehensive rewrite of business logic, offloading intensive work to background threads, and implementing data caching in the local database."
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Nearify",
+      "responsibilities": [
+        "1st engineer hired in the company, developed native Android application from scratch.",
+        "Developed a system to generate and deploy multiple Android apps in real time for each well-known city in the world.",
+        "Reduced APK size by 25% by modularizing the app into smaller modules for reuse and efficiency."
+      ]
+    }
+  ],
+   "skills": {
+    "programming_languages": ["Kotlin", "Java", "Python", "Node.js", "XML", "Rx-Java"],
+    "technologies/frameworks": ["Android","Jetpack compose","MVVM","Retrofit","Dagger 2","Room db", "Clean Architectur","Kubernetes", "Docker", "Spring Boot", "Google Cloud Platform (GCP)",
+      "Amazon Web Services(AWS)", "Microservices", "Kotlin Multiplatform", "Nginx",
+      "Junit", "MySQL", "PostgreSQL", "DynamoDB", "Android", "CI/CD"
+]
+  },
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science",
+    "institution": "Guru Gobind Singh Indraprastha University (GGSIPU)",
+    "year": "2009–2013"
+  }
+}

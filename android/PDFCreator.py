@@ -90,7 +90,7 @@ def create_resume_pdf(file_name):
     for exp in experiences:
         content.append(Paragraph(f"<b>{exp['role']}</b>, {exp['company']} ({exp['dates']}, {exp['location']})", body_style))
         for detail in exp['details']:
-            content.append(Paragraph(f"- {detail}", bullet_style))
+            content.append(Paragraph(f"•  {detail}", bullet_style))
         content.append(Spacer(1, 6))
 
     # Skills, Education, and Certifications

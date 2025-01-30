@@ -1,0 +1,61 @@
+{
+  "name": "Nishant Tanwar",
+  "title": "Sr. Full-Stack Engineer",
+  "summary": "Senior Backend Engineer with 10+ years of experience, including 7 years of remote work. Proficient in Kubernetes, GCP, AWS, and Microservices. Proven success in optimizing system performance and reducing load times by up to 50%. Experienced in Supply Chain, Service Marketplaces, and Financial Services. Dedicated to creating impactful solutions that drive meaningful change.",
+  "experience": [
+    {
+      "role": "Sr. Software Engineer",
+      "company": "Tala",
+      "duration": "2020–2024",
+      "responsibilities": [
+        "Led the development of the Tala financial system, fostering cross-functional collaboration, resulting in over 20 million users.",
+        "Integrated a Server-Driven UI framework using Golang and GraphQL, enhancing user interaction by 20%.",
+        "Developed an internal caching service using Golang, reducing request latency by 35% and significantly improving performance and reliability",
+        "Implemented cross-platform multi-country module to deploy applications into multiple countries (Philippines, India, Mexico, and Kenya).",
+        "Led the development of an in-house wallet with server-side API integration, resulting in a 50% increase in transaction processing speed and a 20% reduction in integration errors.\n"
+      ]
+    },
+    {
+      "role": "Sr. Software Engineer",
+      "company": "MileZero, a Capstone Company",
+      "responsibilities": [
+        "Architected and developed a sortation system, sorting 1 million packages daily for middle-mile delivery.\n",
+        "Integrated and optimized Neo4j graph databases, boosting route planning and package sorting efficiency, which led to a\n20% reduction in delivery times and a 30% increase in operational efficiency.\n",
+        "Developed a last-mile delivery system incorporating shortest-path route planning algorithms, reducing delivery times by\n20%.\n",
+        "Integrated a telemetry system using RabbitMQ, providing real-time location updates from mobile apps, improving\ntracking accuracy by 75% and enhancing operational visibility, resulting in a 30% increase in overall efficiency"
+
+      ]
+    },
+    {
+      "role": "Sr. Software Engineer",
+      "company": "Urban Company",
+      "responsibilities": [
+      "Led the architecture and development of the UrbanCompany Android app, scaling it from zero to 10 million users on\nGoogle Play Store",
+        "Contributed to the development of a new authentication feature using OAuth 2.0 and JWT, which improved security and\nuser retention.\n",
+        "Improved app performance by 30% through a comprehensive rewrite of business logic by offloading intensive work to\nbackground threads, and implementing data caching in the local database.\n"
+
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Nearify",
+      "responsibilities": [
+        "1st engineer hired in the company, developed native Android application from scratch.",
+        "Developed a system to generate and deploy multiple Android apps in real time for each well-known city in the world.",
+        "Reduced APK size by 25% by modularizing the app into smaller modules for reuse and efficiency."
+      ]
+    }
+  ],
+   "skills": {
+    "programming_languages": ["Kotlin", "Java", "Python", "Node.js", "XML", "Rx-Java"],
+    "technologies/frameworks": ["Android","Jetpack compose","MVVM","Retrofit","Dagger 2","Room db", "Clean Architecture","Kubernetes", "Docker", "Spring Boot", "Google Cloud Platform (GCP)",
+      "Amazon Web Services(AWS)", "Microservices", "Kotlin Multiplatform", "Nginx",
+      "Junit", "MySQL", "PostgreSQL", "DynamoDB", "Android", "CI/CD"
+]
+  },
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science",
+    "institution": "Guru Gobind Singh Indraprastha University (GGSIPU)",
+    "year": "2009–2013"
+  }
+}
